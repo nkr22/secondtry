@@ -1,0 +1,29 @@
+nav {
+    background-color: cornflowerblue;
+    display: flex;
+}
+
+.nav-bar {
+    list-style: none;
+}
+
+.nav-bar li {
+    flex-grow: 3;
+    padding: 10px;
+}
+
+.nav-bar li a {
+    color: white;
+}
+
+p {
+    text-decoration: underline;
+    font-family: "Bebas Neue", cursive;
+}
+h1 {
+    color: goldenrod;
+}
+
+.tableauPlaceholder {
+    margin: auto;
+}
